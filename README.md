@@ -16,9 +16,9 @@ The same guide is inside each notebook.
 
 | Class | Subject | Notebook |
 | --- | --- | --- |
-| Class 10 | Maths (Standard) | [class-10/math](class-10/math/) |
+| Class 10 | Maths (Standard) | [Open the notebook](https://notebook.google.com/notebook/cae5c691-09e7-4aeb-9bfd-2bec7823f2bd) · [sources](class-10/math/) |
 
-The notebook link goes in that folder when the notebook is public.
+You need a Google account to open it. You can ask. You cannot edit the sources.
 
 ## Adding a subject
 

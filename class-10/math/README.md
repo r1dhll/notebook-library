@@ -4,7 +4,9 @@ CBSE. Class 10. Mathematics Standard. Not Basic.
 
 ## Notebook
 
-Not public yet. The link goes here when it is shared.
+[Open the notebook](https://notebook.google.com/notebook/cae5c691-09e7-4aeb-9bfd-2bec7823f2bd)
+
+You need a Google account. You can ask. You cannot edit the sources.
 
 ## What is inside
 
